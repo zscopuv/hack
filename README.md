@@ -1,1 +1,1 @@
-# [Google Dorking] (/dorking)
+# [Google Dorking](/dorking)
